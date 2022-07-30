@@ -23,7 +23,7 @@
 <h3>Showcase All Your Projects 🛍️🎇</h3>
 
 <figure>
-  <img src= "images/screenshot.png" alt="projects screenshot" style="width:100%">
+  <img src= "images/screenshot.jpeg" alt="projects screenshot" style="width:100%">
   <br/>
   <figcaption>projects screenshot</figcaption>
 </figure>
