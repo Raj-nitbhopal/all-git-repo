@@ -77,7 +77,7 @@ You can either wait for an hour or setup a personal access token on GitHub and p
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://github.com/Raj-nitbhopal/all-git-repo).
+Open `index.html` in your favorite browser or visit [Raj-nitbhopal/all-git-repo/edit](https://github.com/Raj-nitbhopal/all-git-repo).
 
 ## How it was built
 
