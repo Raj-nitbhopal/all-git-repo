@@ -39,7 +39,7 @@ Also shows pretty programming icons using `devicons`.
 
 ## Inspiration
 
-Needed a way to display all my projects, used my [portfolio's project section](https://2kabhishek.github.io/#projects) as inspiration.
+Needed a way to display all my projects, used my [portfolio's project section](https://github.com/Raj-nitbhopal/all-git-repo) as inspiration.
 
 ## Getting Projects
 
@@ -60,11 +60,6 @@ You can easily set up projects to show your own repos.
 - Push your changes
 - Go to repo settings on GitHub and enable GitHub Pages.
 
-The site should be live on `https://<your-username>.github.io/projects`
-
-Here's the projects page for [@sindresorhus](github.com/sindresorhus)
-
-![sindresorhus's projects](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n78j6j4itdbad2cg2h0h.png) 
 
 #### Number Of Repos
 
@@ -82,7 +77,7 @@ You can either wait for an hour or setup a personal access token on GitHub and p
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://2kabhishek.github.io/projects).
+Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://github.com/Raj-nitbhopal/all-git-repo).
 
 ## How it was built
 
@@ -105,6 +100,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/projects">Source</a> | <a href="https://2kabhishek.github.io/projects">Website</a>
+<a href="https://github.com/Raj-nitbhopal/all-git-repo">Source</a> | <a href="https://github.com/Raj-nitbhopal/all-git-repo">Website</a>
 
 </div>
