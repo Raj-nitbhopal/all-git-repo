@@ -46,8 +46,7 @@ Needed a way to display all my projects, used my [portfolio's project section](h
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
-cd projects
+https://github.com/Raj-nitbhopal/all-git-repo.git
 ```
 
 ### Setup Your Own Projects
